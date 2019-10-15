@@ -23,27 +23,10 @@ The requirement is clarity and coherence.
 
 ## Instructions
 
-1. Copy this repository.
-2. Refactor the code on your own copy.
-3. Push the changes to your repository.
-3. Notify your repository location to Caravelo's HR contact when done.
-
-### Hints
-
-Clone assignment repo:
-```
-$ git clone https://git.caravelo.com/recruitment/refactor-1.git
-$ cd refactor-1
-```
-Remove remote origin:
-```
-$ git remote -v
-$ git remote remove origin
-```
-Point a remote to your own repository:
-```
-$ git remote add origin <your repository>
-```
+1. You will receive a user for Caravelo's GitLab
+2. Fork this repo into `recruitment/${your-username}`
+3. Commit & push your changes to this repository
+4. Notify to Caravelo's HR contact when done
 
 ---
 
