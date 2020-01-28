@@ -24,7 +24,7 @@ Don't pay much attention to semantics of the project since it's a fake use case.
 ## Instructions
 
 1. You will receive a user for Caravelo's GitLab
-2. Fork this repo into `recruitment/${your-username}`
+2. Fork this repo into `recruitment/candidates/${your-username}`
 3. Commit & push your changes to this repository
 4. Notify to Caravelo's HR contact when done
 
