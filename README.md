@@ -1,3 +1,16 @@
+Welcome to our intermediate to advanced level backend engineer technical test. The goal is to get to know a little bit of your technical background and expertise. 
+
+It comprises two areas:
+
+- Answering some technical questions
+- Code refactor exercise
+
+There is no time limit, nor a minimum number of answers to accomplish. As mentioned before, the aim is to get a feeling of your technical profile, and refer to the answers and code in further discussions.
+
+# Technical questions
+
+Please refer to [QUESTIONS.md]
+
 # Refactor 1: Flow Executor
 
 [![Level](https://img.shields.io/badge/Level-intermediate-blue.svg)](https://shields.io/)
