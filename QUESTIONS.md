@@ -18,7 +18,10 @@
    - the landing page shows the offer details and an accept offer button that triggers a POST operation against our API,
    - our API processes the request and executes the offer.
    
-   The airline is giving us access to their API (SOAP). Other than that, what technologies would you use to develop our solution, and how would you put them together (I am thinking about sequence)? What would you do to help with performance? 
+   The airline is giving us access to their API (SOAP) for their test environment, API technical documentation, business rules to follow and designs (email template, offer landing page). With all this in mind:
+   - what technologies would you use to develop our solution (you can put on your fullstack/devops hat) and why? 
+   - how would you put them together (please explain general flow and how they interact/communicate)? 
+   - what would you do to help with performance? 
    
 6. How would you deal with a feature/project where there is high uncertainty?
 
