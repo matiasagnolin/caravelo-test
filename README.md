@@ -5,7 +5,7 @@ It comprises two areas:
 - Answering some technical questions
 - Code refactor exercise
 
-There is no time limit, nor a minimum number of answers to accomplish. As mentioned before, the aim is to get a feeling of your technical profile, and to be able to refer to the answers and your code in further discussions.
+There is no time limit, nor a minimum number of answers to accomplish. As mentioned before, the aim is to get a feeling of your technical profile, and to be able to refer to your answers and code in further discussions.
 
 # Technical questions
 
