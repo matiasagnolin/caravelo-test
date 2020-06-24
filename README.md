@@ -5,13 +5,19 @@ It comprises two areas:
 - Answering some technical questions
 - Code refactor exercise
 
-There is no time limit, nor a minimum number of answers to accomplish. As mentioned before, the aim is to get a feeling of your technical profile, and to be able to refer to your answers and code in further discussions.
+There is no time limit, nor a minimum number of answers to accomplish. As mentioned before, the aim is to get a feeling of your technical profile, and be able to refer to your answers and code in further discussions.
 
 # Technical questions
 
-Please refer to [QUESTIONS](QUESTIONS.md).
+Please refer to [QUESTIONS.md](QUESTIONS.md).
 
-- You can add your answers directy into QUESTIONS.md, then commit & push your changes.
+## Instructions
+
+1. You will receive a user for Caravelo's GitLab
+2. Fork this repo into `recruitment/candidates/${your-username}`
+3. Edit QUESTIONS.md and add your answers
+4. Commit & push your changes to this repository
+5. Notify to Caravelo's HR contact when done
 
 # Refactor 1: Flow Executor
 
