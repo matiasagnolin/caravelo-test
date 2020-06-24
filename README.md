@@ -9,7 +9,7 @@ There is no time limit, nor a minimum number of answers to accomplish. As mentio
 
 # Technical questions
 
-Please refer to [QUESTIONS.md]
+Please refer to [QUESTIONS](QUESTIONS.md).
 
 # Refactor 1: Flow Executor
 
