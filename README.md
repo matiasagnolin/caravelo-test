@@ -13,8 +13,8 @@ Please refer to [QUESTIONS.md](QUESTIONS.md).
 
 ## Instructions
 
-1. You will receive a user for Caravelo's GitLab
-2. Fork this repo into `recruitment/candidates/${your-username}`
+1. A user was already created for you inside Caravelo's GitLab
+2. refactor-1 repo has already been forked into this space `recruitment/candidates/${your-username}`
 3. Edit QUESTIONS.md and add your answers
 4. Commit & push your changes to this repository
 5. Notify to Caravelo's HR contact when done
@@ -44,8 +44,8 @@ Don't pay much attention to semantics of the project since it's a fake use case.
 
 ## Instructions
 
-1. You will receive a user for Caravelo's GitLab
-2. Fork this repo into `recruitment/candidates/${your-username}`
+1. A user was already created for you inside Caravelo's GitLab
+2. refactor-1 repo has already been forked into this space `recruitment/candidates/${your-username}`
 3. Commit & push your changes to this repository
 4. Notify to Caravelo's HR contact when done
 
