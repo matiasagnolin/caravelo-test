@@ -6,7 +6,7 @@
 
 3. Briefly explain some design patterns you particularly like/use and what do you think about SOLID principles, clean code, etc.
 
-4. What do you think about agile methodologies? When they are beneficial and when they are not?
+4. What do you think about agile methodologies? When they are beneficial and when they are not? Give examples.
 
 5. We signed a project with an airline where we have to:
 
@@ -25,4 +25,4 @@
    
 6. How would you deal with a feature/project where there is high uncertainty?
 
-7. Explain your ideal process to deliver a feature, from conception to release in production
+7. Explain your ideal process to deliver a feature, from conception, design, to build it and to release it in production.
