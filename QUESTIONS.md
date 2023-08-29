@@ -2,13 +2,11 @@
 
 1. How would you approach refactoring a legacy codebase?
 
-2. What do you think about technical debt?
+2. Briefly explain some design patterns you particularly like/use and what do you think about SOLID principles, clean code, etc.
 
-3. Briefly explain some design patterns you particularly like/use and what do you think about SOLID principles, clean code, etc.
+3. What do you think about agile methodologies? When they are beneficial and when they are not? Give examples.
 
-4. What do you think about agile methodologies? When they are beneficial and when they are not? Give examples.
-
-5. We signed a project with an airline where we have to:
+4. We signed a project with an airline where we have to:
 
    - launch a daily process where we have to scan 12 given flight routes,
    - for every route, we have to scout all flights with departure within the next 3 days,
@@ -23,6 +21,4 @@
    - how would you put them together (please explain general flow and how they interact/communicate)? 
    - what would you do to help with performance? 
    
-6. How would you deal with a feature/project where there is high uncertainty?
-
-7. Explain your ideal process to deliver a feature, from conception, design, to build it and to release it in production.
+5. How would you deal with a feature/project where there is high uncertainty?
