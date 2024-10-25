@@ -1,8 +1,10 @@
 plugins {
     id 'java'
+    id 'org.springframework.boot' version '2.1.3.RELEASE' // 2.1.3 since it was requested work with java 8
+    id 'io.spring.dependency-management' version '1.1.0'
 }
 
-group 'caravelo'
+group 'com.caravelo'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8
@@ -12,6 +14,29 @@ repositories {
 }
 
 dependencies {
+
+    // Spring Boot Starter and spring Core
+    implementation 'org.springframework.boot:spring-boot-starter'
+
+    // Spring Web for REST API
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+
+    // open api for API documentation
+    implementation 'org.springdoc:springdoc-openapi-ui:1.5.9'
+
+    // Event Bus
     compile 'com.google.guava:guava:27.0.1-jre'
-    testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    //Junit test
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.8.1'
+
+    //Mock instances
+    testImplementation 'org.mockito:mockito-core:3.12.4'
+
+    //for mockMVC
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+     }
+
+test {
+    useJUnitPlatform()
 }
